@@ -1,0 +1,26 @@
+# Dependensi
+node_modules
+
+# Hasil build Next.js
+.next
+
+# File log NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# File environment lokal
+.env*.local
+
+# Direktori metadata Git
+.git
+
+# Konfigurasi IDE/editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
